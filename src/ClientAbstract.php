@@ -1,5 +1,7 @@
 <?php
 
+namespace mrcnpdlk\Api;
+
 use mrcnpdlk\Psr16Cache\Adapter;
 use Psr\Log\LoggerInterface;
 use Psr\Log\NullLogger;
